@@ -1,0 +1,113 @@
+Invalid Input
+Invalid Input
+
+------------------------------------
+
+Date: 12/28/2018
+City: Vancouver
+Name: Contact Winter Music Festival
+Country: Canada
+
+------------------------------------
+
+Country: 
+Date: 12/30/2018
+Name: Decadence AZ
+Country: AZ
+City: Chandler
+
+----------------------------------------------------------
+
+Country: United States
+
+----------------------------------------------------------
+
+Date: 12/30/2018
+Name: Decadence CO
+
+------------------------------------
+
+City: Denver
+Country: United States
+
+----------------------------------------------------------
+
+Country: CO
+Date: 12/31/2018
+
+------------------------------------
+
+City: Minneapolis
+Country: MN
+Name: Snowta NYE
+Country: United States
+
+----------------------------------------------------------
+
+Name: EDC Mexico (Feb 23-24)
+Date: 02/23/2019
+
+------------------------------------
+
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Country: 
+Date: 03/22/2019
+City: Mexico City
+Name: DOG BLOOD @ BUKU [MAR 22-23]
+Country: Mexico
+Country: LA
+City: New Orleans
+Country: United States
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 08/22/2019
+Country: 
+City: Warrington
+Country: United Kingdom
+
+----------------------------------------------------------
+
+Name: Creamfields
+
+-------------------------------------------
+
+Title: Venom
+IMDB Rating: 6.9
+Release Year: 2018
+Rotten Tomatoes Rating: 35/100
+Language: English
+Country: USA, China
+Plot: When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego "Venom" to save his life.
+Actors: Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze
+
+--------------------------------------------
+
+
+--------------------------------------------------
+
+Song: thank u, next
+Preview: https://p.scdn.co/mp3-preview/5c6eda26f42b6ceb465fb84a809fd4601e198eb6?cid=add0f9d3ea6048b7a730e58167380e2e
+Album: thank u, next
+
+--------------------------------------------------
+
+Artist: Ariana Grande
+Artist: Backstreet Boys
+
+--------------------------------------------------
+
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=add0f9d3ea6048b7a730e58167380e2e
+
+--------------------------------------------------
+
+Album: The Hits--Chapter One
