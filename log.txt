@@ -111,3 +111,402 @@ Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?
 --------------------------------------------------
 
 Album: The Hits--Chapter One
+
+------------------------------------
+
+Date: 08/22/2019
+Name: Creamfields
+Country: 
+City: Warrington
+Country: United Kingdom
+
+----------------------------------------------------------
+
+Invalid Input
+
+-------------------------------------------
+
+Title: Clueless
+Rotten Tomatoes Rating: 68/100
+IMDB Rating: 6.8
+Release Year: 1995
+Plot: A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.
+Actors: Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd
+Country: USA
+
+--------------------------------------------
+
+Language: English, Spanish
+
+------------------------------------
+
+Date: 08/22/2019
+City: Warrington
+Name: Creamfields
+
+----------------------------------------------------------
+
+Country: 
+Country: United Kingdom
+
+------------------------------------
+
+Date: 12/24/2018
+City: Atlanta
+Name: Smith's Olde Bar
+Country: GA
+Country: United States
+
+----------------------------------------------------------
+
+Date: 06/15/2019
+
+------------------------------------
+
+City: Beitostolen
+Name: Beitostølen Stadion
+Country: Norway
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Country: 
+Name: Solsiden
+City: Trondheim
+Date: 06/17/2019
+Country: Norway
+Country: 
+
+----------------------------------------------------------
+
+Date: 06/19/2019
+
+------------------------------------
+
+Name: Solsiden
+City: Trondheim
+Country: 
+Country: Norway
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 06/21/2019
+Name: Teaterpladsen
+City: Holstebro
+Country: 
+Country: Denmark
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 06/23/2019
+Name: Jahngelände Forchheim
+Country: 
+City: Forchheim
+
+----------------------------------------------------------
+
+Country: Germany
+
+------------------------------------
+
+Date: 06/26/2019
+Name: OpenAir-Platz der EmslandArena
+Country: 
+City: Lingen
+Country: Germany
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 07/04/2019
+Name: Messe Graz Freigelände
+Country: Austria
+City: Graz
+Country: 
+
+------------------------------------
+
+
+----------------------------------------------------------
+
+City: Klam
+Date: 07/05/2019
+Country: 
+Name: Burg Clam
+Country: Austria
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 07/06/2019
+Name: Freilichtbühne Peißnitz
+City: Schwarzenbach An Der Saale
+Country: 
+Country: Germany
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Name: Tollwood Sommerfestival - Musik Arena
+Date: 07/10/2019
+City: Munich
+Country: 
+Country: Germany
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 07/11/2019
+Name: Schloßplatz
+City: Stuttgart
+Country: 
+Country: Germany
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 07/12/2019
+Name: Zámecký park Slavkov u Brna
+City: Brno-kralovo
+Country: 
+Country: Czech Republic
+
+----------------------------------------------------------
+
+Date: 07/15/2019
+
+------------------------------------
+
+Name: Kunst!Rasen Bonn/Gronau
+Country: 
+City: Bonn-bad Godesberg
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 07/26/2019
+Name: Grand Theatre De La Cite (Theatre Jean Deschamps)
+City: Carcassonne
+Country: 
+Country: France
+Country: Germany
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 08/01/2019
+Name: Théatre de plein air -Parc des expositions
+City: Colmar
+Country: 
+Country: France
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Name: Contact Winter Music Festival
+Country: 
+City: Vancouver
+Date: 12/28/2018
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 12/30/2018
+Name: Decadence AZ
+City: Chandler
+Country: AZ
+Country: Canada
+Country: United States
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Name: Decadence CO
+City: Denver
+Date: 12/30/2018
+Country: CO
+Country: United States
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 12/31/2018
+Name: Snowta NYE
+City: Minneapolis
+Country: MN
+Country: United States
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 02/23/2019
+Name: EDC Mexico (Feb 23-24)
+City: Mexico City
+Country: 
+Country: Mexico
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 03/22/2019
+Name: DOG BLOOD @ BUKU [MAR 22-23]
+City: New Orleans
+Country: LA
+Country: United States
+
+----------------------------------------------------------
+
+
+--------------------------------------------------
+
+Artist: Post Malone
+Album: beerbongs & bentleys
+Song: Better Now
+Preview: https://p.scdn.co/mp3-preview/30727cca3dbefa4c3a962daf46ce0b9e5a3c6639?cid=add0f9d3ea6048b7a730e58167380e2e
+
+--------------------------------------------------
+
+
+------------------------------------
+
+Date: 12/28/2018
+Name: Contact Winter Music Festival
+Country: 
+City: Vancouver
+
+----------------------------------------------------------
+
+Country: Canada
+
+------------------------------------
+
+Date: 12/30/2018
+Name: Decadence AZ
+City: Chandler
+Country: AZ
+Country: United States
+
+----------------------------------------------------------
+
+Date: 12/30/2018
+
+------------------------------------
+
+City: Denver
+Name: Decadence CO
+Country: CO
+Country: United States
+
+----------------------------------------------------------
+
+Date: 12/31/2018
+Name: Snowta NYE
+City: Minneapolis
+Country: MN
+Country: United States
+
+------------------------------------
+
+
+----------------------------------------------------------
+
+
+------------------------------------
+
+Date: 02/23/2019
+Name: EDC Mexico (Feb 23-24)
+City: Mexico City
+Country: 
+Country: Mexico
+
+----------------------------------------------------------
+
+Date: 03/22/2019
+
+------------------------------------
+
+Name: DOG BLOOD @ BUKU [MAR 22-23]
+City: New Orleans
+Country: LA
+Country: United States
+
+----------------------------------------------------------
+
+Artist: Kygo
+
+--------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/24ac356f3a04d2c3554e27026b36812e60dac1f8?cid=add0f9d3ea6048b7a730e58167380e2e
+Album: Happy Now (feat. Sandro Cavazza)
+
+--------------------------------------------------
+
+Song: Happy Now (feat. Sandro Cavazza)
+
+--------------------------------------------------
+
+Artist: Mariah Carey
+Album: Merry Christmas
+Song: All I Want for Christmas Is You
+Preview: null
+
+--------------------------------------------------
+
+
+--------------------------------------------------
+
+Artist: Ariana Grande
+Song: thank u, next
+Preview: https://p.scdn.co/mp3-preview/9509aa587980ebd8b6c12d9b4a404b0bb9dd42b2?cid=add0f9d3ea6048b7a730e58167380e2e
+Album: thank u, next
+
+--------------------------------------------------
+
+
+-------------------------------------------
+
+Title: Home Alone
+Release Year: 1990
+Rotten Tomatoes Rating: 62%
+IMDB Rating: 7.5
+Language: English
+Country: USA
+Plot: An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.
+Actors: Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard
+
+--------------------------------------------
+
